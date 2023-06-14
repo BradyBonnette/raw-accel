@@ -1,0 +1,7 @@
+*.dll
+*.exe
+*.png
+driver/
+doc/
+LICENSE
+ReadMe.md
