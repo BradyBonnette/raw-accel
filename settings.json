@@ -21,23 +21,23 @@
         "y": 1.0
       },
       "Whole or horizontal accel parameters": {
-        "mode": "natural",
-        "Gain / Velocity": true,
-        "inputOffset": 0.6,
+        "mode": "classic",
+        "Gain / Velocity": false,
+        "inputOffset": 1.0,
         "outputOffset": 0.0,
-        "acceleration": 0.005,
-        "decayRate": 3.0,
+        "acceleration": 0.92,
+        "decayRate": 0.1,
         "growthRate": 1.0,
         "motivity": 1.5,
         "exponentClassic": 2.0,
         "scale": 1.0,
         "exponentPower": 0.05,
-        "limit": 20.0,
+        "limit": 1.5,
         "midpoint": 5.0,
         "smooth": 0.5,
         "Cap / Jump": {
           "x": 15.0,
-          "y": 1.5
+          "y": 15.0
         },
         "Cap mode": "output",
         "data": []
@@ -64,8 +64,8 @@
         "Cap mode": "output",
         "data": []
       },
-      "Sensitivity multiplier": 0.15,
-      "Y/X sensitivity ratio (vertical sens multiplier)": 1.25,
+      "Sensitivity multiplier": 0.3,
+      "Y/X sensitivity ratio (vertical sens multiplier)": 1.0,
       "L/R sensitivity ratio (left sens multiplier)": 1.0,
       "U/D sensitivity ratio (up sens multiplier)": 1.0,
       "Degrees of rotation": 0.0,
