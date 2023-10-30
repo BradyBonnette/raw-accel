@@ -23,10 +23,10 @@
       "Whole or horizontal accel parameters": {
         "mode": "natural",
         "Gain / Velocity": true,
-        "inputOffset": 3.5,
+        "inputOffset": 0.45,
         "outputOffset": 0.0,
         "acceleration": 0.005,
-        "decayRate": 0.45,
+        "decayRate": 4.2,
         "growthRate": 1.0,
         "motivity": 1.5,
         "exponentClassic": 2.0,
@@ -64,7 +64,7 @@
         "Cap mode": "output",
         "data": []
       },
-      "Sensitivity multiplier": 0.83,
+      "Sensitivity multiplier": 6.4,
       "Y/X sensitivity ratio (vertical sens multiplier)": 1.0,
       "L/R sensitivity ratio (left sens multiplier)": 1.0,
       "U/D sensitivity ratio (up sens multiplier)": 1.0,
