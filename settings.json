@@ -41,12 +41,12 @@
         },
         "Cap mode": "output",
         "data": [
-          0.78,
-          1.1,
-          2.1,
-          4.1,
-          3.5,
-          12.0
+          2.0,
+          1.0,
+          15.0,
+          15.0,
+          20.0,
+          40.0
         ]
       },
       "Vertical accel parameters": {
@@ -71,12 +71,12 @@
         "Cap mode": "output",
         "data": []
       },
-      "Sensitivity multiplier": 4.4,
+      "Sensitivity multiplier": 0.89,
       "Y/X sensitivity ratio (vertical sens multiplier)": 1.0,
       "L/R sensitivity ratio (left sens multiplier)": 1.0,
       "U/D sensitivity ratio (up sens multiplier)": 1.0,
       "Degrees of rotation": 0.0,
-      "Degrees of angle snapping": 0.0,
+      "Degrees of angle snapping": 10.0,
       "Input Speed Cap": 0.0
     }
   ],
