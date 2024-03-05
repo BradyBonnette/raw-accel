@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cp -vr /mnt/c/Users/brady/OneDrive/RawAccel/. .
+cp -vr /mnt/c/Users/brady/OneDrive/RawAccel/*.json .
